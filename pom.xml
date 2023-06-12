@@ -20,6 +20,8 @@
         <module>commons</module>
         <module>jtt808-protocol</module>
         <module>jtt808-server</module>
+        <module>protostar</module>
+        <module>netmc</module>
     </modules>
 
     <properties>

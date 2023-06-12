@@ -58,7 +58,7 @@ jt-server:
     enable: true
     port:
       udp: 7611
-      tcp: 7611
+      tcp: 8077
     media-file:
       path: D:/jt_data/media_file
     alarm-file:

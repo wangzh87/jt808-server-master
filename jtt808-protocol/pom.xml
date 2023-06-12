@@ -45,12 +45,12 @@
             <artifactId>netty-handler</artifactId>
         </dependency>
         <dependency>
-            <groupId>io.github.yezhihao</groupId>
+            <groupId>org.yzh</groupId>
             <artifactId>protostar</artifactId>
             <version>3.0.7</version>
         </dependency>
         <dependency>
-            <groupId>io.github.yezhihao</groupId>
+            <groupId>org.yzh</groupId>
             <artifactId>netmc</artifactId>
             <version>3.0.7</version>
         </dependency>
